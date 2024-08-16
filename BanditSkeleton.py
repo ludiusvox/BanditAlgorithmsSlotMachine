@@ -7,7 +7,7 @@ This code probides a basic skeleton for the
 stationary bandit code.  It should be adapted
 by the students for their work.
 """
-
+#Solved by Aaron Linder
 
 import csv, random
 import sys
